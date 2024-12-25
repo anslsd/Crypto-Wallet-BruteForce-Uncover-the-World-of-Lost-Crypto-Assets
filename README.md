@@ -15,7 +15,7 @@ Crypto Wallet BruteForce uses an advanced algorithm to generate unique seed phra
 *   **Instant Valuation:** If successful, you’ll instantly see the value of the discovered crypto assets converted to USD 💵, allowing you to assess the potential benefit.
 *   **Search History:** The built-in history feature saves checked seed phrases and results, allowing you to analyze your progress and adjust your search strategy. 📊
 
-**Key Features: ✨**
+**Key Features: ✨** 
 
 *   **Support for Major Cryptocurrencies:** BTC ₿, ETH Ξ, LTC ⚡, BNB 🔥, SOL ☀️, USDT 💲, BCH ⛓️, DOGE 🐕, TRX 🌐, and more.
 *   **Real-Time Price Display:** Cryptocurrency prices in USD are updated in real-time. 📈
